@@ -11,3 +11,6 @@ for alternative ways of running shiny apps.
 
 Caution: at the moment data for the whole genome instead of only current browser view
 kept in RAM.
+
+![Example](./img/scrshot.png?raw=true)
+
